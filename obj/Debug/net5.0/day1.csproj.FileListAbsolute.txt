@@ -1,0 +1,16 @@
+C:\source\codeworks\latewinter21\csharp\day1\bin\Debug\net5.0\day1.exe
+C:\source\codeworks\latewinter21\csharp\day1\bin\Debug\net5.0\day1.deps.json
+C:\source\codeworks\latewinter21\csharp\day1\bin\Debug\net5.0\day1.runtimeconfig.json
+C:\source\codeworks\latewinter21\csharp\day1\bin\Debug\net5.0\day1.runtimeconfig.dev.json
+C:\source\codeworks\latewinter21\csharp\day1\bin\Debug\net5.0\day1.dll
+C:\source\codeworks\latewinter21\csharp\day1\bin\Debug\net5.0\ref\day1.dll
+C:\source\codeworks\latewinter21\csharp\day1\bin\Debug\net5.0\day1.pdb
+C:\source\codeworks\latewinter21\csharp\day1\obj\Debug\net5.0\day1.csprojAssemblyReference.cache
+C:\source\codeworks\latewinter21\csharp\day1\obj\Debug\net5.0\day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\latewinter21\csharp\day1\obj\Debug\net5.0\day1.AssemblyInfoInputs.cache
+C:\source\codeworks\latewinter21\csharp\day1\obj\Debug\net5.0\day1.AssemblyInfo.cs
+C:\source\codeworks\latewinter21\csharp\day1\obj\Debug\net5.0\day1.csproj.CoreCompileInputs.cache
+C:\source\codeworks\latewinter21\csharp\day1\obj\Debug\net5.0\day1.dll
+C:\source\codeworks\latewinter21\csharp\day1\obj\Debug\net5.0\ref\day1.dll
+C:\source\codeworks\latewinter21\csharp\day1\obj\Debug\net5.0\day1.pdb
+C:\source\codeworks\latewinter21\csharp\day1\obj\Debug\net5.0\day1.genruntimeconfig.cache
